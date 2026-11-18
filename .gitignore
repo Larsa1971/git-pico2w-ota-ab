@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+keys/
+*.pem
+!device/github-ca.pem.example
+device/secret.py
+build/
+dist/
+.pytest_cache/
